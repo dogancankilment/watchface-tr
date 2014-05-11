@@ -1,5 +1,5 @@
 {
-    "companyName": "noondaymoon",
+    "companyName": "dogancankilment",
     "appKeys": {},
     "capabilities": [
         ""
@@ -109,11 +109,11 @@
             }
         ]
     },
-    "uuid": "56f14240-1bd3-40e5-b736-2a0a74bae921",
+    "uuid": "5b3ea69a-3a48-45ab-8d64-d69629c02e9e",
     "versionCode": 1,
-    "longName": "noondaymoon",
-    "shortName": "noondaymoon",
-    "versionLabel": "1.11",
+    "longName": "watchface-tr",
+    "shortName": "watchface-tr",
+    "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
     }
